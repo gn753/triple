@@ -1,7 +1,7 @@
 # 트리플 미니과제
 
 ## 프로젝트 실행방법
-https://inspiring-sprinkles-cc38bb.netlify.app/
+
 ```
   npm start
 ```
